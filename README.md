@@ -1,2 +1,2 @@
-# Class-29
-I made a slingshot for the angry birds game
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
